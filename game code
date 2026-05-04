@@ -1023,4 +1023,4 @@ gs = { state:'menu', frame:0, leaderboard: JSON.parse(localStorage.getItem('kls_
 loop();
 </script>
 </body>
-</html
+</html>
